@@ -1,0 +1,25 @@
+{
+  "name": "three-asciieffect",
+  "version": "1.0.1",
+  "description": "The ThreeJS Ascii Effect as npm package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivee-tech/three-asciieffect.git"
+  },
+  "keywords": [
+    "ASCII",
+    "3D",
+    "Three",
+    "JS"
+  ],
+  "author": "ivee-tech",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivee-tech/three-asciieffect/issues"
+  },
+  "homepage": "https://github.com/ivee-tech/three-asciieffect#readme"
+}
